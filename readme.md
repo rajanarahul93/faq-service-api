@@ -26,7 +26,7 @@ This project provides a RESTful API for managing FAQs (Frequently Asked Question
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https:github.com/rajanarahul93/faq-service-api
+   git clone https://github.com/rajanarahul93/faq-service-api
    cd faq-service-api
    ```
 
